@@ -1,2 +1,7 @@
 # bash
-My bash knowledge is defined by this repository.
+
+### Bash cheatsheet
+```bash
+date # Get the current date and time
+```
+
